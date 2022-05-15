@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **test technics, testing tools like TestLink, and writing test cases, scenarios, progress and test summary report, using Trello and Jira**
 
 ## About me
-My name is Sandra Tomaszewska. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my experience from personal studies and researches.
+My name is Sandra Tomaszewska. Recently I have started to interest in software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my experience from personal studies and researches.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
