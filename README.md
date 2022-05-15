@@ -17,6 +17,9 @@ My name is Sandra Tomaszewska. Recently I have started to interest in software t
 - Jira, Trello
 - OWASP ZAP Zed Attack Proxy
 - JMeter
+- PicPick
+- ShareX
+- BrowserStack
 
 ## Skills
 - SQL
